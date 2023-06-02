@@ -36,6 +36,13 @@ class AlbumPlayer {
     
     
     public void playAlbum(){
+        int compoundedSeconds = 0;
+        for(int i=0; i<album.length; i++){
+          Song theCurrentSong = album[i];
+          compoundedSeconds += theCurrentSong.length;
+        }
+    
+        System.out.println("The length of the whole album is " + String.valueOf(compoundedSeconds));
         for(int i=0; i<album.length; i++){
             Song theSong = album[i];
             theSong.play();
