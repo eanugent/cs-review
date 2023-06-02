@@ -25,7 +25,7 @@ public class App {
 
             // Set request headers
             conn.setRequestProperty("Content-Type", "application/json");
-            conn.setRequestProperty("X-RapidAPI-Key", "dfa41bb9a0mshc505d1b5288b74ep1602dcjsn3d411ab2ef39");
+            conn.setRequestProperty("X-RapidAPI-Key", "");
             conn.setRequestProperty("X-RapidAPI-Host", "api-nba-v1.p.rapidapi.com");
             // Add any other required headers
 
