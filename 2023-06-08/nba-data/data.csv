@@ -1,0 +1,30 @@
+ID,NBAId,FirstName,LastName,BirthDate,BirthCountry,NBAStartYear,Height,Weight,College,Team
+0,724,Bam,Adebayo,1997-07-18,USA,2017,6 ft 9 in,255,Kentucky,20
+1,1018,Duncan,Robinson,1994-04-22,USA,2018,6 ft 7 in,215,Michigan,20
+2,1775,Gabe,Vincent,1996-06-14,USA,2019,6 ft 3 in,200,California-Santa Barbara,20
+3,1815,Haywood,Highsmith,1996-12-09,USA,2018,6 ft 4 in,220,Wheeling Jesuit,20
+4,2051,Max,Strus,1996-03-28,USA,2019,6 ft 5 in,220,DePaul,20
+5,1866,Tyler,Herro,2000-01-20,USA,2019,6 ft 5 in,195,Kentucky,20
+6,2785,Omer,Yurtseven,1998-06-19,Turkey,2021,6 ft 11 in,275,Georgetown,20
+7,2880,Marcus,Garrett,1998-11-09,USA,2021,6 ft 5 in,205,Kansas,20
+8,327,Kyle,Lowry,1986-03-25,USA,2006,6 ft 0 in,196,Villanova,20
+9,326,Kevin,Love,1988-09-07,USA,2008,6 ft 8 in,251,UCLA,20
+10,86,Jimmy,Butler,1989-09-14,USA,2011,6 ft 7 in,230,Marquette,20
+11,571,Cody,Zeller,1992-10-05,USA,2013, ft  in,,Indiana,20
+12,131,Dewayne,Dedmon,1989-08-12,USA,2013,7 ft 0 in,245,Southern California,20
+13,403,Victor,Oladipo,1992-05-04,USA,2013,6 ft 4 in,213,Indiana,20
+14,225,Udonis,Haslem,1980-06-09,USA,2003,6 ft 8 in,235,Florida,20
+15,383,Jamal,Murray,1997-02-23,Canada,2016,6 ft 3 in,215,Kentucky,9
+16,753,Thomas,Bryant,1997-07-31,USA,2017,6 ft 10 in,248,Indiana,9
+17,865,Davon,Reed,1995-06-11,USA,2017,6 ft 5 in,206,Miami,9
+18,944,Bruce,Brown,1996-08-15,USA,2018,6 ft 4 in,202,Miami,9
+19,1014,Michael,Porter Jr.,1998-06-29,USA,2019,6 ft 10 in,218,Missouri,9
+20,2627,Zeke,Nnaji,2001-01-09,USA,2020,6 ft 9 in,240,Arizona,9
+21,2816,Bones,Hyland,2000-09-14,USA,2021,6 ft 2 in,169,Virginia Commonwealth,9
+22,207,Jeff,Green,1986-08-28,USA,2007,6 ft 8 in,235,Georgetown,9
+23,286,DeAndre,Jordan,1988-07-21,USA,2008,6 ft 11 in,265,Texas A&M,9
+24,488,Ish,Smith,1988-07-05,USA,2010,6 ft 0 in,175,Wake Forest,9
+25,264,Reggie,Jackson,1990-04-16,USA,2011,6 ft 2 in,208,Boston College,9
+26,89,Kentavious,Caldwell-Pope,1993-02-18,USA,2013,6 ft 5 in,204,Georgia,9
+27,195,Aaron,Gordon,1995-09-16,USA,2014,6 ft 8 in,235,Arizona,9
+28,279,Nikola,Jokic,1995-02-19,Serbia,2015,6 ft 11 in,284,Mega Basket,9
